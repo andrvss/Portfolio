@@ -1,7 +1,7 @@
 <h1 align="center"> Portfolio </h1>
 
 <p align="center">
-Portfolio contendo informações, skills, projetos gráficos e meios de contato. Totalmente responsivo e em inglês. <br/>
+Portfolio contendo informações, skills, projetos gráficos e meios de contato. <br/>
 </p>
 
 <p align="center">
